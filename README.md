@@ -1,7 +1,8 @@
 # Data Preprocessing
 
+
 <ol>
-  <li>Central Tendency and Dispersion measurest</li>
+  <li>Central Tendency and Dispersion measures</li>
   <li>Handling missing values in a dataset</li>
   <li>Noise Smoothing with Binning</li>
   <li>PCA</li>
@@ -13,5 +14,4 @@
   <li>Insurance Dataset</li>
   <li>Groceries Dataset</li>
   <li>Iris Dataset</li>
-  
 <ol>
